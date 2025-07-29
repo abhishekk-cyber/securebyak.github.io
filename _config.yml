@@ -72,3 +72,4 @@ exclude:
   - purgecss.js
   - "*.config.js"
   - "package*.json"
+# trigger rebuild
